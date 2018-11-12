@@ -1,5 +1,5 @@
 ---
-  
+ - hosts: all
   
   - name: Provision an EC2 Instance
     gather_facts: False
